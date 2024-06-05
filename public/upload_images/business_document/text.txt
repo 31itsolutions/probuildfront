@@ -1,0 +1,114 @@
+
+	⁃	Trail & expiry (change paint color and text as per sample)
+	⁃	Product & service text, location, lines, colors, shades (table should be as per sample)
+	⁃	When i press wish list in customer profile and then press on company, page is unavailable 
+	⁃	When logging in as vendor, my business table text, location, lines, colors, shades is not as per sample
+	⁃	When logging in as vendor, tender-board is not as per sample that includes text, location, lines, colors, shades and design and on desktop version (view details is not placed correctly)
+	⁃	When trying to add business on vendor page the page directly goes to choose your plans and not to the add a business page.
+	⁃	As per our old meeting, we informed to remove the picture in product and services but the small circle picture is still there
+	⁃	When adding more than 1 pic only 1 pic appeared and a blue lines appear under the picture which was not shown in the approved sample.
+	⁃	item review not as per sample.
+	⁃	On phone version When adding as business location, on the company discretion page the action extends and request call and view brochure goes does 
+	⁃	On phone version the my business table isn’t 100% shown
+	⁃	On phone version tender board page is complete confusing and not as per sample. 
+	⁃	On bother phone and desktop version, item review written on red shown be the same as all design in red such as request call back and req and we have informed this more then1 year ago.
+	⁃	On phone version the item review should be at the end, this is very sloppy and unacceptable as we already told you 1 year ago.
+	⁃	On phone version the company logo in the company description page should not be there as we already informed you 1 year ago, you need to remove it because it is not alight with rebuild logo and it is sloppy work.
+	⁃	When adding more then 4 words for company name, the name intersects with my business and 2 words are not shown in phone version
+	⁃	When updating profile as vendor a green box pops at the beginning which the text written inside is not in the middle but rather in the bottom which is sloppy work
+	⁃	Send a message box, remove picture as we informed 1 year ago
+	⁃	When viewing company brochure the pop up that appears in complete sloppy in website version and completely not working on phone version 
+	⁃	Phone and desktop  version when I search for company, some boxes are bigger then other, it is because if there is more then 4 company name the box becomes bigger which is sloppy and unprofessional 
+	⁃	In phone version listing info text goes out of box if text is a lot which is sloppy 
+	⁃	On phone version, my business  should align with company name 
+	⁃	The packages page, discounted price in not payed properly
+	⁃	All version I cannot add more then 1 picture for any company and I cannot delete any pic or edit once profile is created, so how exactly do u expect my client to keep there page fresh if they cannot update and change pics
+	⁃	In credit cad and debit card page, should be expiry month then expiry date but you wrote expiry month and expiry month which is sloppy and unprofessional
+	⁃	Filters on phone version is very bad, either remove or fix as per sample
+	⁃	After adding a business, when I enter the profile page which I added all the info such as cr and pics, the layout is completely bad and not as per sample.
+	⁃	When I search in the bar using location it docent search because you have kept country as a reference not city.
+	⁃	Any words typed should be cap
+	⁃	I have did 10 tender request but none showed 
+	⁃	As informed in previous meeting  couple of time, the phone version layout should either by as per sample or should in this order. Description, products, gallery, timing, location listing, links, send a message and then review 
+	⁃	Overall website is not completed, please complete website as per sample you have provided in the beginning incase I have missed something. 
+	⁃	One important thing is the key words for the search, I specifically asked for a place where each contractors can write key for client to find them, words not available in our sub cat
+	⁃	Previously request tender in the customer login in red is not as per sample and design
+	⁃	Upload gallery and u and brochure is not the same text in the add business page, we have told you that 1 year ago.
+	⁃	Opening times as we informed last year use 12hr only.
+	⁃	Request call page for vendor on phone is not as per sample and need to change table(change paint color and text and lines as per sample) even when green work accepted pop up it is to right and not placed as per sample. And now when I press view details I cannot view that u need to fix so I can enter and see the details page.
+	⁃	All business word in after searching is not in the middle as per sample  
+	⁃	Filter not as per sample. 
+	⁃	Company description box in add a biz is big and not as per sample.
+
+
+
+
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+
+
+￼
+￼
+￼
+￼
+￼
+￼
+
+￼
+
+
+
+
+
+
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼

@@ -1,0 +1,380 @@
+/*================================================================================
+	Item Name: Frest HTML Admin Template
+	Version: 1.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.action {
+    height: 20px;
+    width: 30px;
+}
+
+.action i {
+    font-size: 12px !important;
+    padding: 10px 15px 10px 15px !important;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa-edit {
+    background: #124bdb;
+}
+
+.fa-trash-alt {
+    margin-left: 15px;
+    background: #ed2213;
+}
+
+.action_width {
+    width: 150px !important;
+}
+
+.fa-edit:hover,
+.fa-trash-alt:hover {
+    background: white;
+    color: black;
+    transition: ease .3s;
+}
+
+.fa-eye {
+    font-size: 20px;
+}
+
+.back-option h1 i {
+    font-size: 10px;
+    color: blue;
+}
+
+.back-option h1 {
+    font-size: 14px;
+}
+
+.cu_header {
+    display: flex !important;
+}
+
+.cu_header h1 {
+    align-items: center !important;
+    border: .2px solid blue !important;
+    padding: 10px 10px 10px 10px;
+    font-size: 17px;
+}
+
+.header-cu {
+    text-align: center !important;
+}
+
+.cu_active {
+    color: white;
+    background: #345eeb;
+}
+
+label {
+    font-weight: 700 !important;
+}
+
+.header_cp {
+    font-weight: 700;
+    color: #d99818;
+}
+
+.pack-edit-delete a {
+    border: .5px solid #ede7e6;
+    padding: 5px;
+}
+
+.pack-edit-delete p .edit:hover {
+    border: .5px solid #1cb026 !important;
+    padding: 5px;
+}
+
+.pack-edit-delete p .delete:hover {
+    border: .5px solid red !important;
+    padding: 5px;
+}
+
+.pack-edit-delete {
+    position: absolute;
+    left: 75px;
+    margin-top: 40px !important;
+}
+
+.pack-edit-delete i {
+    background: none !important;
+}
+
+.border .date p {
+    font-size: 10px !important;
+}
+
+.border .date span {
+    background-color: #4284f5;
+    color: white;
+    padding: 5px 7px 5px 7px;
+    border-radius: 0px 0px 5px 0px;
+}
+
+.b_no p {
+    font-size: 10px !important;
+}
+
+.b_no p span {
+    background-color: #4284f5;
+    color: white;
+    position: absolute;
+    right: 38px;
+    padding: 1px 7px 1px 7px;
+    border-radius: 0px 0px 0px 5px;
+}
+
+.acc-head p {
+    font-size: 13px;
+}
+
+.status_select select {
+    font-size: 12px;
+    height: 30px;
+    max-width: 200px;
+}
+
+.update_status .btn-primary {
+    padding: 2px 7px 2px 7px;
+    font-size: 12px;
+}
+
+
+/* .card {
+    min-height: 430px !important;
+} */
+
+.pack-edit p {
+    cursor: pointer;
+}
+
+.pack-edit p:hover {
+    color: black;
+}
+
+.pack-edit p i {
+    background: none !important;
+}
+
+.image_cu img {
+    position: absolute;
+    top: 0 !important;
+    left: 0 !important;
+}
+
+
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+
+#map {
+    height: 400px;
+    width: 400px;
+}
+
+#floating-panel {
+    position: absolute;
+    top: 10px;
+    left: 25%;
+    z-index: 5;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #999;
+    text-align: center;
+    font-family: "Roboto", "sans-serif";
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+.company_table .eye {
+    margin-top: 4px !important;
+    border: 1px solid white !important;
+    font-size: 18px;
+    padding: 2px 3px 2px 3px;
+}
+
+.company_table .edit {
+    margin-top: 4px !important;
+    border: 1px solid white !important;
+    font-size: 18px;
+    background: none !important;
+    padding: 2px 3px 2px 3px;
+}
+
+.company_table .delete {
+    margin-left: -1px;
+    margin-top: 4px !important;
+    border: 1px solid white !important;
+    font-size: 18px;
+    background: none !important;
+    padding: 2px 3px 2px 3px;
+}
+
+.company_table .eye:hover {
+    background-color: #2a56d1;
+    color: white;
+    transition: ease .8s;
+    border-radius: 5px;
+}
+
+.brand-text {
+    color: #edb021 !important;
+}
+
+.company_table .edit:hover {
+    background-color: #3bb85e !important;
+    color: white;
+    transition: ease .8s;
+    border-radius: 5px;
+}
+
+.brand-logo img {
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+}
+
+.company_table .delete:hover {
+    background-color: #e32b44 !important;
+    color: white;
+    transition: ease .8s;
+    border-radius: 5px;
+}
+
+.add_image {
+    display: flex;
+}
+
+.view_edit {
+    position: absolute;
+    right: 20px;
+}
+
+.view_edit a .fa-eye {
+    margin-right: 10px;
+    color: #1268c4;
+    background: none !important;
+}
+
+.view_edit a .fa-edit {
+    margin-top: -5px !important;
+    color: #1268c4;
+    background: none !important;
+}
+
+.delete_add {
+    position: absolute !important;
+    left: 100px !important;
+    bottom: 0px;
+}
+
+.center_main {
+    justify-content: center !important;
+}
+
+.center_main .border {
+    width: 280px;
+    height: 200px;
+}
+
+.center_main .border {
+    text-align: center !important;
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.center_main .border:hover {
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.3);
+    transition: ease .3s;
+}
+
+.center_main .border i {
+    border-radius: 50%;
+    font-size: 30px;
+    margin-top: 35px;
+}
+
+.center_main .border h1 {
+    font-size: 20px;
+}
+
+.pack-head .add_bu {
+    position: absolute;
+    right: 30px;
+    width: 120px;
+}
+
+.for_vendor i {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+}
+
+.for_user h1 {
+    color: #e61568 !important;
+}
+
+.for_vendor h1 {
+    color: blue !important;
+}
+
+.for_vendor h2 {
+    font-size: 23px;
+}
+
+.for_user h2 {
+    font-size: 23px;
+}
+
+.for_user i {
+    background-color: #e61568;
+    padding: 10px;
+    color: white;
+}
+
+.priority_input {
+    margin-top: 10px !important;
+}
+
+.delete_product {
+    position: absolute;
+    left: 150px;
+    margin-top: -45px;
+}
+
+.delete_product_image {
+    position: absolute;
+    left: 110px;
+    margin-top: -45px;
+}
+
+.admin_home_bottom {
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.2);
+}
+
+.admin_home_bottom h1 {
+    font-size: 17px;
+}
+
+.verify_vendor_top {
+    margin-top: 10px;
+}
+
+.b_count {
+    color: #aa0bd6;
+    font-size: 20px;
+}
